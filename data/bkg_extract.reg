@@ -1,0 +1,4 @@
+# Region file format: DS9 version 4.1
+global color=green width=1 
+fk5
+annulus(266.53122,-28.99759,5.0",10.0")

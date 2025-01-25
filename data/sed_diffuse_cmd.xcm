@@ -1,0 +1,8 @@
+abund wilm
+xsect vern
+query y
+set par {6 & 1 & 1.4E-3 & 8 & 1.4E-3 & 6.4 & 0.04 & 4E-3 & 6.7 & 0.04 & 4E-3}
+model tbabs*(bbody+bbody+gauss+gauss) & $par
+flux 2 8
+save mo sed_diffuse.xcm
+exit

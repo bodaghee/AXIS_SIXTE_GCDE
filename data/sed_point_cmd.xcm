@@ -1,0 +1,7 @@
+abund wilm
+xsect vern
+query y
+set par {6 & 1.5 & 1E-5}
+model tbabs*pow & $par
+save mo sed_point.xcm
+exit
