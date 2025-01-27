@@ -11,4 +11,4 @@ This includes:
 * finding sources with wavdetect; 
 * and extracting spectra.
 
-The instructions are for Shell scripts since it's the language used in the SIXTE documentation, which makes it easier for first-timers. I also included their equivalent Python scripts since that's what I prefer.
+The instructions are for Shell scripts since it's the language used in the SIXTE documentation, which makes it easier for first-timers. Their equivalent Python scripts are also included for those who prefer the language.
